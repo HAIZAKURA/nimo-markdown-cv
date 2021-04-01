@@ -35,7 +35,7 @@ Chengdu, Sichuan
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20), to appear._<br>
+_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
 [[www](http://penrose.ink/siggraph20.html)]
@@ -45,7 +45,7 @@ _ACM Transactions on Graphics (SIGGRAPH'20), to appear._<br>
 
 Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
 <i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), to appear._<br>
+_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
 [[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
 [[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
 
@@ -130,6 +130,7 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 ## Service
 
+Reviewer `CHI 2021`
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
 
 <!-- ### Footer
